@@ -1,3 +1,2 @@
 ### Hello World 👋
-
-📱 Flutter Developer
+Flutter Developer 📱
