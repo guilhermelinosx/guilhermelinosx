@@ -2,6 +2,8 @@
 
 Developer in development
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermelinosx&label=Profile%20views&color=03bb85&style=flat" alt="guilhermelinosx" /> </p>
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
