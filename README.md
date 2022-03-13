@@ -9,7 +9,8 @@ Developer in development
 
 
 <details>
-   <summary>:zap: GitHub Stats</summary>
+   
+###<summary>:zap: GitHub Analytics</summary>
    </br>
   <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&theme=dark"/>
