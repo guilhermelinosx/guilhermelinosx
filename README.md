@@ -1,4 +1,4 @@
-<img align="right" src=".github/illustration.gif" width="300"/>
+<img align="right" src=".github/illustration.png" width="200"/>
 
 ### Hi, call me Lino 👋
 
