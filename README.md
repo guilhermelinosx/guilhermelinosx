@@ -13,8 +13,8 @@ Developer in development
   <div align="center">
  
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&theme=monokai"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelinosx&theme=monokai"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelinosx&theme=dark"/>
   </div>
 </details>
 
