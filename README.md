@@ -2,7 +2,11 @@
 
 Developer in development
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermelinosx&label=Profile%20views&color=03bb85&style=flat" alt="guilhermelinosx" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermelinosx/)
+
+
+
+
 
 <details>
    <summary>:zap: GitHub Stats</summary>
@@ -13,4 +17,6 @@ Developer in development
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelinosx&theme=monokai"/>
   </div>
 </details>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=guilhermelinosx&label=Profile%20views&color=03bb85&style=flat" alt="guilhermelinosx" /> </p>
 
