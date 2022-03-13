@@ -13,8 +13,8 @@ Developer in development
    <summary><b>⚙️ GitHub Analytics</b></summary>
    </br>
   <div align="center">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&theme=dark"/>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelinosx&theme=dark"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&theme=dark"/>
+  <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelinosx&theme=dark"/>
   </div>
 </details>
 
