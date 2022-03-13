@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/guilhermelinosx/guilhermelinosx/blob/master/.github/illustration.png" width="300"/>
+<img align="right" src="https://github.com/guilhermelinosx/guilhermelinosx/blob/master/.github/illustration.gif" width="300"/>
 
 ### Hi, call me Lino 👋
 
