@@ -10,8 +10,7 @@ Developer in development
 
 <details>
    
-   <summary><b>GitHub Analytics
-</b></summary>
+   <summary><b>GitHub Analytics ⚙️</b></summary>
    </br>
   <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&theme=dark"/>
