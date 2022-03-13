@@ -1,4 +1,4 @@
-### Hello World 👋
+## Hello World 👋
 
 Developer in development
 
@@ -10,7 +10,7 @@ Developer in development
 
 <details>
    
-   <summary><b>:zap: GitHub Analytics
+   <summary><b>GitHub Analytics
 </b></summary>
    </br>
   <div align="center">
