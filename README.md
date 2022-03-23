@@ -2,7 +2,13 @@
 Developer in development
 
 
+- 🌱  I’m currently learning **JavaScript, TypeScript, ReactJS, React Native, NodeJS**
+
+
+<br>
+
 ⚙️ &nbsp;GitHub Analytics
+
 <br>
 
 <p align="center">
