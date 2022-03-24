@@ -1,6 +1,4 @@
-----
-<h1 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-----
+<h2 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
 
 I'm **Mobile Developer in development** :iphone:
 
