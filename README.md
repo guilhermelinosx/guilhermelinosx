@@ -2,7 +2,7 @@
 Developer in development
 
 
-- 🌱  I’m currently learning **JavaScript, TypeScript, ReactJS, React Native, NodeJS**
+- 🌱  I’m currently learning **JavaScript, TypeScript, React Native, NodeJS**
 
 
 <br>
