@@ -1,6 +1,6 @@
 <h1 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-Mobile Developer in development :iphone:
+I'm **Mobile Developer in development** :iphone:
 
 
 - 🌱  I’m currently learning **JavaScript, TypeScript, React Native, NodeJS**
@@ -13,6 +13,7 @@ Mobile Developer in development :iphone:
   <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
     
+----
 
 <br>
 
@@ -24,5 +25,5 @@ Mobile Developer in development :iphone:
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&theme=nightowl" alt="guilherme's stats"/>
 </p>
 
-
+----
 
