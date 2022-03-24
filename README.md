@@ -1,5 +1,6 @@
 <h1 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-Developer in development
+
+Mobile Developer in development :iphone:
 
 
 - 🌱  I’m currently learning **JavaScript, TypeScript, React Native, NodeJS**
