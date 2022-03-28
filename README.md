@@ -25,10 +25,12 @@ I'm **Mobile Developer** in development :iphone:
 <br/>
 
 
+  <div lign="center">
+ 
+   [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Lino-6633cc?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermelinosx/)  [![Instagram Badge](https://img.shields.io/badge/-guilhermelinosx-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermelinosx/) 
   
-  [![Instagram Badge](https://img.shields.io/badge/-guilhermelinosx-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermelinosx/)
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Lino-6633cc?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermelinosx/)
+</div>
+
   
 
 
