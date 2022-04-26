@@ -1,6 +1,6 @@
 <h2 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
 
-I'm **Mobile Developer** in development :iphone:
+I'm **Back-End Developer** in development :iphone:
 
 
 - 🌱  I’m currently learning **JavaScript, TypeScript, React Native, NodeJS**
