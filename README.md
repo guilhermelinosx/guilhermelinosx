@@ -3,7 +3,7 @@
 I'm **Back-End Developer** in development :iphone:
 
 
-- 🌱  I’m currently learning **JavaScript, TypeScript, React Native, NodeJS**
+- 🌱  I’m currently learning **...**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
