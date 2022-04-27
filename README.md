@@ -19,7 +19,7 @@ I'm **Back-End Developer** in development
 <br>
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&theme=nightowl" alt="guilherme's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&theme=midnight-purple" alt="guilherme's stats"/>
 </p>
 
 <br/>
