@@ -1,23 +1,22 @@
-<div>
-<div>
-I'm **Mobile Developer** in development 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=f9f9f9&bg_color=1d1f21" alt="Guilherme Lino's GitHub Stats" />
 
-- I’m currently learning **...**
 
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Lino-6633cc?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermelinosx/) [![Instagram Badge](https://img.shields.io/badge/-guilhermelinosx-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermelinosx/) 
-</div>
-<div>
-<img width="350em" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&theme=midnight-purple" alt="guilherme's stats"/>
-</div>
-</div>
+- I'm **Mobile Developer** in development 
+- Student of Information Systems (IS) at Universidade Anhembi Morumbi (UAM)
+
+<div> 
+  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+</div> 
   
-
-
-
-  
-
-
+<br />
+<div> 
+  <a href="https://www.instagram.com/guilhermelinosx/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-ff0066?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/guilhermelinosx/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-ff0066?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+</div>
