@@ -18,8 +18,8 @@ I'm **Mobile Developer** in development
 
 <br>
 
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&theme=midnight-purple" alt="guilherme's stats"/>
+<p align="right">
+<img width="250em" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&theme=midnight-purple" alt="guilherme's stats"/>
 </p>
 
 <br/>
