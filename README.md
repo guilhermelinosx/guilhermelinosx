@@ -11,7 +11,7 @@ I'm **Mobile Developer** in development
 
 
 <p align="right">
-<img width="250em" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&theme=midnight-purple" alt="guilherme's stats"/>
+<img width="350em" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&show_icons=true&theme=midnight-purple" alt="guilherme's stats"/>
 </p>
 
 <p><small>Developed by Guilherme Lino</small></p>
