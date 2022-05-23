@@ -2,7 +2,7 @@
 
 
 - I'm **Back-End Developer** 
-- Student of Information Systems (IS) at Universidade Anhembi Morumbi (UAM)
+- Graduated in Financial Management at Santo André Foundation (FSA)
 
 <div> 
 
