@@ -5,7 +5,8 @@
 - Graduated in Financial Management at Santo André Foundation (FSA)
 
 <div> 
-
+  <img alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
   
  
