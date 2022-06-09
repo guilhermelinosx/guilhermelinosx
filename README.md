@@ -6,11 +6,9 @@
 
 <div> 
   
- 
-  <img alt="Ruby" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg">
-  <img alt="Rails" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg">
-  
+  <img alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  
 
 
