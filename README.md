@@ -16,9 +16,7 @@
   
 <br />
 <div> 
-  <a href="https://www.instagram.com/guilhermelinosx/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-1d1f21?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+ 
   <a href="https://www.linkedin.com/in/guilhermelinosx/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-1d1f21?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
