@@ -28,8 +28,8 @@
 <div align="center">
 
 </br>
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelinosx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelinosx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
 
 </div>
