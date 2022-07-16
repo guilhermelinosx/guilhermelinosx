@@ -29,3 +29,8 @@
   <img src="https://komarev.com/ghpvc/?username=guilhermelinosx&style=for-the-badge&color=1d1f21"/>
 
 </div>
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
