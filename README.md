@@ -21,17 +21,8 @@
  - GitHub Stats
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelinosx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelinosx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
 </div>
 
-<!--START_SECTION:waka-->
-```text
-TypeScript   1 hr 17 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.16 % 
-YAML         42 mins         ⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.82 % 
-Text         15 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.70 % 
-Docker       15 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.49 % 
-JSON         14 mins         ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.95 % 
-```
-<!--END_SECTION:waka-->
