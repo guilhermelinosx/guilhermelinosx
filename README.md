@@ -1,5 +1,5 @@
 - I'm **Back-End Developer** 
-- Graduated in Financial Management at Santo André Foundation (FSA)
+- Studying Systems Analysis and Development at Uniamérica
 
 <div> 
   <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
