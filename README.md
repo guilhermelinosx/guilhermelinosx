@@ -21,8 +21,8 @@
  - GitHub Stats
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelinosx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=guilhermelinosx&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelinosx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 </br>
 </br>
 <img src="https://komarev.com/ghpvc/?username=guilhermelinosx&style=for-the-badge&color=1d1f21"/>
